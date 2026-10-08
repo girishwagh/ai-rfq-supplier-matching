@@ -1,0 +1,12 @@
+{
+  "project": "AI-Powered RFQ-to-Supplier Matching & Lead Prioritization",
+  "dataset": "synthetic",
+  "rfqs": 5000,
+  "suppliers": 1000,
+  "supplier_product_rows": 2043,
+  "intent_model": "TF-IDF + Logistic Regression",
+  "intent_accuracy": 0.562,
+  "intent_macro_f1": 0.5416,
+  "demo": "Streamlit",
+  "disclaimer": "Independent portfolio prototype; not IndiaMART data."
+}
